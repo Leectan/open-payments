@@ -26,7 +26,7 @@
   "dependencies": {
     "http-message-signatures": "^0.1.2",
     "httpbis-digest-headers": "github:interledger/httpbis-digest-headers",
-    "jose": "^4.13.1",
+    "jose": "^4.15.5",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
